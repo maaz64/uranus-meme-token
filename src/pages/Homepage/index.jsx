@@ -1,6 +1,6 @@
 import { Text, Img, Heading, } from "../../components";
-import Footer from "components/Footer";
-import YouTubeEmbed from "components/Youtube";
+import Footer from "../../components/Footer/index";
+import YouTubeEmbed from "../../components/Youtube/index";
 
 export default function HomepagePage() {
 
