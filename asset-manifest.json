@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/uranus-meme-token/static/css/main.0a4ebea0.css",
+    "main.js": "/uranus-meme-token/static/js/main.b5f7935f.js",
+    "static/media/RubikBold.ttf": "/uranus-meme-token/static/media/RubikBold.c934eb22c2c69992b34c.ttf",
+    "static/media/RubikSemiBold.ttf": "/uranus-meme-token/static/media/RubikSemiBold.869208702057daef053d.ttf",
+    "static/media/RubikMedium.ttf": "/uranus-meme-token/static/media/RubikMedium.0e121b4fa4d6e9bc5c69.ttf",
+    "static/media/RubikRegular.ttf": "/uranus-meme-token/static/media/RubikRegular.55fa11cdc8b9a3ee842f.ttf",
+    "static/media/RubikRomanRegular.ttf": "/uranus-meme-token/static/media/RubikRomanRegular.55fa11cdc8b9a3ee842f.ttf",
+    "static/media/PoppinsItalic.ttf": "/uranus-meme-token/static/media/PoppinsItalic.e373f6163127e2d469af.ttf",
+    "static/media/RalewayRomanSemiBold.ttf": "/uranus-meme-token/static/media/RalewayRomanSemiBold.9a6a9af38bf678bce031.ttf",
+    "static/media/RalewaySemiBold.ttf": "/uranus-meme-token/static/media/RalewaySemiBold.9a6a9af38bf678bce031.ttf",
+    "static/media/RalewayRomanMedium.ttf": "/uranus-meme-token/static/media/RalewayRomanMedium.1a3483dd7a2052f30ede.ttf",
+    "static/media/RalewayRomanRegular.ttf": "/uranus-meme-token/static/media/RalewayRomanRegular.c15b0bf7b86f34335251.ttf",
+    "static/media/RalewayBold.ttf": "/uranus-meme-token/static/media/RalewayBold.757abe402eb07a0ab739.ttf",
+    "static/media/RalewayRomanBold.ttf": "/uranus-meme-token/static/media/RalewayRomanBold.757abe402eb07a0ab739.ttf",
+    "static/media/PoppinsRegular.ttf": "/uranus-meme-token/static/media/PoppinsRegular.35d26b781dc5fda684cc.ttf",
+    "static/media/PoppinsMedium.ttf": "/uranus-meme-token/static/media/PoppinsMedium.673ed42382ab264e0bf5.ttf",
+    "static/media/PoppinsSemiBold.ttf": "/uranus-meme-token/static/media/PoppinsSemiBold.ac8d04b620e54be9b0f0.ttf",
+    "static/media/PoppinsBold.ttf": "/uranus-meme-token/static/media/PoppinsBold.cdb29a5d7ccf57ff05a3.ttf",
+    "static/media/PlusJakartaSansRomanSemiBold.ttf": "/uranus-meme-token/static/media/PlusJakartaSansRomanSemiBold.cf92107f36f071f6384c.ttf",
+    "static/media/JosefinSansRomanSemiBold.ttf": "/uranus-meme-token/static/media/JosefinSansRomanSemiBold.2e34db3490edd3889c75.ttf",
+    "static/media/JosefinSansRomanBold.ttf": "/uranus-meme-token/static/media/JosefinSansRomanBold.0ec6d05a9917d9c58519.ttf",
+    "static/media/PollerOneRegular.ttf": "/uranus-meme-token/static/media/PollerOneRegular.5d43eeaec2e12a853009.ttf",
+    "index.html": "/uranus-meme-token/index.html",
+    "main.0a4ebea0.css.map": "/uranus-meme-token/static/css/main.0a4ebea0.css.map",
+    "main.b5f7935f.js.map": "/uranus-meme-token/static/js/main.b5f7935f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a4ebea0.css",
+    "static/js/main.b5f7935f.js"
+  ]
+}
